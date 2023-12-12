@@ -2,7 +2,7 @@
 - Student at IIITM GWALIOR, Information technology
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning web dev technologies
-- 💞️ I’m looking to contribute on GSoC
+- 💞️ I’m looking to contribute on open source
 - 📫 How to reach me Email: amalbajpai083@gmail.com
 - discord: amalbajpayee
 
